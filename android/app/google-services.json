@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607276651980",
+    "project_id": "elite-wave-cabs",
+    "storage_bucket": "elite-wave-cabs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607276651980:android:e7ba2f48b20ad1a02a7969",
+        "android_client_info": {
+          "package_name": "com.example.elite_wave_cabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPDcc-aeO5Q6v5hfgF9OZXC3sWcsaszs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
