@@ -30,6 +30,7 @@ dependencies:
 
   flutter_native_splash: ^2.3.10
 
+  material_ui: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
