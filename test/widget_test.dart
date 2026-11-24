@@ -5,6 +5,7 @@ void main() {
   testWidgets('App loads test', (WidgetTester tester) async {
     await tester.pumpWidget(const EliteWaveCabsApp());
 
-    expect(find.text('Elite Wave Cabs'), findsNothing);
+    // The app title is present in the widget tree; verify it appears.
+    expect(find.text('Elite Wave Cabs'), findsOneWidget);
   });
 }
